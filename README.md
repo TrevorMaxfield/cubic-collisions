@@ -3,7 +3,7 @@ Supporting repository for the paper "On Devising More Competitive Strategies for
 
 # Videos
 
-The first video is an animation of Figure 18, showing the time steps of the game in 3D.  The second video is a zoomed in version showing the pursuer's ficticious boxes, corresponding to Figure 19.
+The first video is an animation of Figure 18, showing the time steps of the game in 3D.  The second video is a zoomed in version, corresponding to Figure 19.
 
 <video width="980" height="784" controls>
 <source src="vids/anim_18.mp4" type="video/mp4">
